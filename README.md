@@ -1,1 +1,1 @@
-https://ufk-trvl-v2.web.app/
+[demo] {https://ufk-trvl-v2.web.app/}
